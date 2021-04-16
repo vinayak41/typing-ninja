@@ -1,0 +1,13 @@
+.test-container {
+    height: 87vh;
+    width: 100vw;
+    background-color: rgb(182, 182, 182);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.test-container-top {
+    display: flex;
+}

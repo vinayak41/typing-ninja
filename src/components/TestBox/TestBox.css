@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap');
+.test-box {
+    width: 80vw;
+    height: 70vh;
+    background-color: white;
+    display: flex;
+    padding: 1rem;
+}
+
+.test-text {
+    width: 50%;
+    height: 100%;
+    background-color: rgb(47, 47, 47);
+    margin-right: 0.5rem;
+    box-sizing: margin-box;
+    color: white;
+    padding: 0.5rem;
+    font-family: 'Roboto Mono', monospace;
+    font-size: small;
+    overflow: hidden;
+}
+
+.typing-area {
+    width: 50%;
+    height: 100%;
+    margin-left: 0.5rem;
+    border: black 2px solid;
+    padding: 0.5rem;
+    cursor: default;
+} 
+
+.correct {
+    color: rgb(0, 255, 0);
+}
+
+.incorrect {
+    color: red;
+}
+
+.not-attempted {
+    color: white;
+}
