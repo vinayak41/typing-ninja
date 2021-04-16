@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/typing-ninja/static/css/main.70778b9c.chunk.css",
+    "main.js": "/typing-ninja/static/js/main.ca472a01.chunk.js",
+    "main.js.map": "/typing-ninja/static/js/main.ca472a01.chunk.js.map",
+    "runtime-main.js": "/typing-ninja/static/js/runtime-main.1e3e7901.js",
+    "runtime-main.js.map": "/typing-ninja/static/js/runtime-main.1e3e7901.js.map",
+    "static/js/2.42c7b9f1.chunk.js": "/typing-ninja/static/js/2.42c7b9f1.chunk.js",
+    "static/js/2.42c7b9f1.chunk.js.map": "/typing-ninja/static/js/2.42c7b9f1.chunk.js.map",
+    "index.html": "/typing-ninja/index.html",
+    "static/css/main.70778b9c.chunk.css.map": "/typing-ninja/static/css/main.70778b9c.chunk.css.map",
+    "static/js/2.42c7b9f1.chunk.js.LICENSE.txt": "/typing-ninja/static/js/2.42c7b9f1.chunk.js.LICENSE.txt",
+    "static/media/ninja.d3297455.png": "/typing-ninja/static/media/ninja.d3297455.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e3e7901.js",
+    "static/js/2.42c7b9f1.chunk.js",
+    "static/css/main.70778b9c.chunk.css",
+    "static/js/main.ca472a01.chunk.js"
+  ]
+}
